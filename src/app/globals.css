@@ -16,6 +16,19 @@ a{
   text-decoration: none;
   color: inherit;
 }
+.theme{
+  transition: 1s all ease;
+}
+
+.light{
+  background-color: #f0f0f0;
+  color: #333333;
+}
+
+.dark{
+  background-color: #222222;
+  color: #f0f0f0;
+}
 
 .container{
   max-width: 1366px;
