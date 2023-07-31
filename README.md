@@ -1,4 +1,3 @@
-![Screen Shot 2023-07-31 at 18 45 39](https://github.com/afiifatuts/scriba-nextjs/assets/32781700/fb3696b7-64d5-42ae-9b70-b0819c1365c3)## Preview Web
 ### Light Mode
 ![Screen Shot 2023-07-31 at 18 46 11](https://github.com/afiifatuts/scriba-nextjs/assets/32781700/55248835-1deb-4e2b-93e4-790de3c5fc46)
 
